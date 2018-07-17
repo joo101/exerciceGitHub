@@ -19,7 +19,7 @@ $( "#menu" ).menu();
 		}
 	else
 		{
-		$lang='eng';
+		$lang='fr';
 		}
 
 
