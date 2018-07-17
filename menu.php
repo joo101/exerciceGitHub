@@ -8,7 +8,7 @@ $( "#menu" ).menu();
 
  <style>
  
-.ui-menu { width: 140px; }
+.ui-menu { width: 160px; }
 </style>
 <?php
 	include 'lang.php';
